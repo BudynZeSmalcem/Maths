@@ -5,6 +5,7 @@ public class BasicEquations {
 
     public int multiplyBy10(int no) {
         int result = 0;
+
         return result;
     }
 
